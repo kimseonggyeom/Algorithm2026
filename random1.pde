@@ -21,11 +21,4 @@ for(i = 0; i < list.length - 1; i++) {
       index = j;
     }
   }
-  tmp = list[index];
-  list[index] = list[list.length - 1 - i];
-  list[list.length - 1 - i] = tmp;
-}
-
-for(i = 0; i < list.length; i++) {
-  print(list[i], " ");
 }
