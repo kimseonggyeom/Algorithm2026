@@ -1,2 +1,2 @@
 [Selection_Sort](./Homework/Selection_Sort.pde)
-![homework1](./homework/homework1.jpg)
+![Homework1](./Homework/Homework1.png)
