@@ -39,7 +39,7 @@ void BubbleSort() {
 
 void swap(int i, int j) {
   int tmp;
-  tmp = arr[arr.length-i-1];
+  tmp = arr[j];
   arr[j] = arr[i];
   arr[i] = tmp;
 }
