@@ -1,2 +1,2 @@
-[Selection_Sort](./Homework/Selection_Sort.pde)
-![Alt Homework11](./Homework/Homework1.png)
+[SelectionSorting](./homework/Selection_Sort.pde)
+![Alt homework11](./Homework/Homework1.png)
