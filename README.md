@@ -5,4 +5,4 @@
 ![Alt homework11](./Homework/Selection_Sort.png)
 
 [Bubble_Sort](./Homework/Bubble_Sort.pde)
-![Alt homework11](./Homework/BubbleSort.png)
+![Alt homework11](./Homework/Bubble_Sort.png)
