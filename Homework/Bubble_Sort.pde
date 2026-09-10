@@ -3,7 +3,7 @@ int[] arr;
 void setup() {
   intArr(16);
   printArr();
-  selectionSorting();
+  BubbleSort();
   printArr();
 }
 
@@ -23,7 +23,7 @@ void printArr() {
   println();
 }
 
-void selectionSorting() {
+void BubbleSort() {
   int i, j, max, index;
   for(i=0; i<arr.length; i++) {
     max = index = -1;
