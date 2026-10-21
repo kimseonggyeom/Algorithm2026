@@ -21,3 +21,6 @@
 
 [SortAni](./Homework/SortAnimation.pde)
 ![Alt homework11](./Homework/SortAnimatio.gif)
+
+[SortAni](./Homework/BinarySearchTree.pde)
+![Alt homework11](./Homework/BinarySearchTree.png)
