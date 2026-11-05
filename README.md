@@ -28,3 +28,5 @@
 [infix -> postfix](./Homework/infixtopostfix.pde)
 ![Alt homework11](./Homework/infixtopostfix.png)
 
+[Pebble_Placement_Problem](./Homework/Pebble_Placement_Problem.pde)
+![Alt homework11](./Homework/Pebble_Placement_Problem.png)
