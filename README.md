@@ -31,5 +31,5 @@
 [Pebble_Placement_Problem](./Homework/Pebble_Placement_Problem.pde)
 ![Alt homework11](./Homework/Pebble_Placement_Problem.png)
 
-[Pebble_Placement_Problem](./Homework/kruskal__prim.pde)
+[kruskal__prim](./Homework/kruskal__prim.pde)
 ![Alt homework11](./Homework/kruskal__prim.gif)
